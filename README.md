@@ -3,7 +3,10 @@ This is selection of my coding projects over the years.
 # OVERVIEW
 Directories:
    - PRG: code from course "Programming in C"
-
+   - ALP: code from course "Algorithms and programming"
+   - c-snake: simple snake game written in c
+   - python: some of my python projects
+  
 Links:
    - LAR: Google drive of my code and videos from siemens course "Laboratoře 
 aplikované elektroniky a řízení": 
