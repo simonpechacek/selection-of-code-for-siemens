@@ -8,6 +8,7 @@ would reccomend try running "pip3 install pygame" first.
   - puzzle_visual: visualizing state-space algorithm
   - rings_visual: visualizing recursive algorithm
   - snake_AI: simple auto playing snake game
-  - project_starter: python tool for copping file templates to different 
+  - project_starter: python tool to copy file templates to different 
 directories
+  - maze_generator: generates random solvable maze
   
